@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Teuto-KB</string>
+    <string name="app_name">Teuto-Kommersbuch</string>
+    <string name="action_about">Über diese App</string>
+    <string name="title_activity_test">TestActivity</string>
 </resources>

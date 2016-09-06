@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs>
+    <!--long id, int number, int page, String title, String beginning,
+                String text, String tonality, String author_melody, String author_text,
+                int year_melody, int year_text, String note-->
+    <record number="1" page="1" title="Farbenlied" beginning="Auf, ihr Brüder"
+        tonality="G-Dur" author_melody="" author_text="" year_melody="1803" year_text="1873"
+        note="">[!<![CDATA[
+Auf, ihr Brüder, lasst uns singen
+uns'rer Farben hohes Lied!
+Lasset freudig jetzt erschallen
+und in Jubel widerhallen
+der TEUTONIA Farbenlied.
+        ]]></record>
+</songs>
