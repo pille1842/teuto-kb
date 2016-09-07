@@ -39,11 +39,11 @@ public class Song {
     }
 
     public String getDisplayText() {
-        return "Nr. " + number + " " + (title.equals("") ? beginning : title);
+        return beginning;
     }
 
     public String getDisplayInfo() {
-        return "p. " + page + " / " + (title.equals("") ? beginning : "");
+        return "Nr. " + number + ", p. " + page + "  " + title;
     }
 
     public long getId() {

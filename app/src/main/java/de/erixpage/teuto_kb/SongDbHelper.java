@@ -20,7 +20,7 @@ public class SongDbHelper extends SQLiteOpenHelper {
     private static final String LOG_TAG             = SongDbHelper.class.getSimpleName();
 
     public static final String DB_NAME              = "teutokb.db";
-    public static final int DB_VERSION              = 4;
+    public static final int DB_VERSION              = 5;
 
     public static final String TABLE_SONGS          = "songs";
 

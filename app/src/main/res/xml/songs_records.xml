@@ -3,13 +3,631 @@
     <!--long id, int number, int page, String title, String beginning,
                 String text, String tonality, String author_melody, String author_text,
                 int year_melody, int year_text, String note-->
-    <record number="1" page="1" title="Farbenlied" beginning="Auf, ihr Brüder"
-        tonality="G-Dur" author_melody="" author_text="" year_melody="1803" year_text="1873"
-        note="">[!<![CDATA[
-Auf, ihr Brüder, lasst uns singen
-uns'rer Farben hohes Lied!
+    <record
+        number="1"
+        page="9"
+        title="Farbenlied"
+        beginning="Auf, ihr Brüder, laßt uns singen"
+        tonality=""
+        author_melody=""
+        author_text="CB Karl Nusser v Zeisig"
+        year_melody=""
+        year_text="1874"
+        note=""><![CDATA[1. Auf, ihr Brüder, laßt uns singen
+Unsrer Farben hohes Lied!
 Lasset freudig jetzt erschallen
-und in Jubel widerhallen
-der TEUTONIA Farbenlied.
-        ]]></record>
+Und in Jubel widerhallen
+Der TEUTONIA Farbenlied.
+
+2. Rot sei unsre erste Farbe,
+Rot sei unsres Bandes Rand;
+Denn bei unserm edlen Ringen
+Soll uns Bruderlieb' umschlingen
+Stets mit ihrem starken Band.
+
+3. Weiß, der Unschuld reines Sinnbild,
+Schmücke dann auch unsre Brust.
+Wahrheitsliebe stets uns leite,
+Offenheit sei unsre Freude,
+Wahres Wort sei unsre Lust!
+
+4. Grün, der Hoffnung frohes Zeichen,
+Darf nicht fehlen unserm Band.
+Stets der Hoffnung Strahl uns winke,
+Daß TEUTONIA niemals sinke,
+Des sei Grün das Unterpfand!
+
+5. Auf, ihr Brüder, treu und bieder,
+Füllt die Becher einmal noch;
+Leeret die gefüllten Becher,
+Singet freudig, wackre Zecher:
+Die TEUTONIA lebe hoch!]]></record>
+
+    <record
+        number="2"
+        page="10"
+        title="Burschenfeier"
+        beginning="Alles schweige! Jeder neige"
+        tonality=""
+        author_melody=""
+        author_text=""
+        year_melody=""
+        year_text=""
+        note=""><![CDATA[Hochoffizielle Burschenfeier
+
+Einzug der Chargierten
+
+Eröffnung und Begrüßung durch das Präsidium
+
+Kantus "Drei Klänge sind's"
+
+Das Zeremoniell
+
+I. Einleitung
+
+1. Präsidium und Konchargia:
+
+Alles schweige! Jeder neige
+ernsten Tönen nun sein Ohr!
+Hört, ich sing' das Lied der Lieder!
+Hört es, meine Bundesbrüder!
+Hall' es, hall' es wider, froher Chor!
+
+2. Korona:
+
+Hört, ich sing das Lied der Lieder!
+Hört es, meine Bundesbrüder!
+Hall' es, hall' es wider, froher Chor!
+
+3. Präsidium und Konchorgia:
+
+Lied der Lieder, hall’ es wider:
+Groß und fest sei unser Mut!
+
+Schläger hoch!
+
+Seht hier die geweihten Degen,
+tut, wie brave Burschen pflegen,
+und durchbohrt den freien Hut.
+Teutonische Fassung des ehem. Landesvaters
+
+4. Korona:
+
+Wir seh'n die geweihten Degen,
+tun, wie brave Burschen pﬂegen,
+und durchbohr'n den freien Hut.
+
+5. Präsidium und Konchargia:
+
+Wer’s nicht fühlet, selbst nicht zielet
+stets nach freier Männer Wert,
+soll nicht unsern Bund entehren,
+nicht bei diesem Schläger schwören,
+nicht entweih'n das blanke Schwert.
+
+6. Korona:
+
+Woll’n nicht unsern Bund entehren
+und bei diesem Schläger schwören‚
+nicht entweih'n das blanke Schwert.
+
+II. Präsidium, Bierorganist und eventuell "einzelner"
+Bundesbruder
+
+7. Korona (ohne Präsidium):
+
+Präsidium, Bierorganist und evtl. "einzelner" Bbr. trinken sich zu!
+
+Nimm den Becher, wack'rer Zecher,
+teuton'schen Trankes voll!
+Nimm den Schläger in die Linke,
+bohr’ ihn durch den Hut und trinke
+auf des Bundesbruders Wohl!
+
+8. Präsidium, Bierorganist und evtl. "einzelner” Bbr. forkeln
+mit den Schlägem der rechts und links stehenden
+Chargierten.
+
+Seht ihn blinken in der Linken,
+diesen Schläger, nie entweiht!
+Ich durchbohr' den Hut und schwöre,
+halten will ich stets auf Ehre,
+stets ein braver Bursche sein!
+
+9. Korona:
+
+Präsidium und Bierorganist stechen auf den Schläger der rechts
+und links stehenden Chargierten und schwören, indem sie drei
+Finger der rechten Hand an die Klinge legen.
+
+Sie durchbohr'n den Hut und schwören,
+halten woll'n sie stets auf Ehre,
+stets zwei brave Burschen sein.
+
+III. Konchargia
+
+10. Korona:
+
+Konchargia trinkt sich zu.
+
+Nimm den Becher, wack'rer Zecher,
+teuton'schen Tronkes voll!
+Nimm den Schläger in die Linke,
+bohr' ihn durch den Hut und trinke
+auf des Bundesbruders Wohl!
+
+11. Konchargia:
+
+Konchargia forkelt!
+
+Seht ihn blinken in der Linken,
+diesen Schläger, nie entweiht!
+Ich durchbohr’ den Hut und schwöre,
+halten will ich stets auf Ehre,
+stets ein braver Bursche sein!
+12. Korona:
+
+Konchargia sticht und schwört!
+
+Sie durchbohr'n den Hut und schwören,
+halten woll'n sie stets auf Ehre,
+stets zwei brave Burschen sein.
+
+IV. Korona
+
+13. Konchargia:
+
+Auf den Stühlen hinter dem ersten Paar, dieses trinkt sich zu.
+
+Nimm den Becher, wack'rer Zecher,
+teuton'schen Trankes voll!
+Nimm den Schläger in die Linke,
+bohr' ihn durch den Hut und trinke
+auf des Bundesbruders Wohl!
+
+14. 1. Paar bekommt den Schläger und forkelt.
+
+Seht ihn blinken in der Linken,
+diesen Schläger, nie entweiht!
+Ich durchbohr' den Hut und schwöre,
+halten will ich stets auf Ehre,
+stets ein braver Bursche sein!
+
+15. Korona:
+
+1. Paar sticht und schwört
+
+Sie durchbohr’ n den Hut und schwören,
+halten woll'n sie stets auf Ehre,
+stets zwei brave Burschen sein.
+
+Wiederholung 13. - 15. für jedes weitere Paar
+
+16. Präsidium (solo):
+
+Komm, du blanker Weihedegen,
+freier Männer freie Wehr.
+Bringt ihn festlich mir entgegen
+von durchbohrten Hüten schwer.
+
+17. Präsidium:
+
+"Während des feierlichen Bindens der Klingen steige
+der Kantus 'Brüder, reicht die Hand zum Bunde'.""
+
+V. Pause
+
+VI. Korona
+
+18. Präsidium:
+
+Chargierte begeben sich auf die gleiche Seite des Tisches
+wie im ersten Teil, tauschen aber die Schläger!
+
+Laßt uns festlich ihn entlasten;
+jeder Scheitel sei bedeckt!
+Und dann laßt ihn unbefleckt
+bis zur nächsten Feier rasten.
+
+19. Konchargia
+
+(Auf den Stühlen hinter dem letzten Paar)
+
+Sie ziehen die Mütze vom Schläger, setzen sie ihrem Gegenüber
+auf und strecken den Schläger darauf. Chargierter und gegenüber
+stehender Bundesbruder reichen sich die Rechte, das Paar
+reicht sich die Linke.
+
+So nimm ihn hin,
+dein Haupt will ich bedecken
+und drauf den Schläger strecken,
+es leb' auch dieser Bruder hoch!
+
+Ein Hundsfott, wer ihn schimpfen sollt!
+Solange wir ihn kennen,
+woll'n wir ihn Bruder nennen:
+es leb' auch dieser Bruder hoch!
+Ein Hundsfott, wer ihn schimpfen sollt!
+
+20. Paar:
+
+Solange wir uns kennen,
+woll'n wir uns Brüder nennen
+
+Korona:
+
+Es leb'n auch diese Brüder hoch!
+Ein Hundsfott, wer sie schimpfen sollt!
+
+Paar trinkt sich zu, Chargierte gehen weiter zum nächsten Paar.
+
+Wiederholung 19. — 20. für jedes weitere Paar.
+
+VII. Konchargia
+
+21. Konchargia:
+
+Chargierte ziehen die Mützen vom Schläger, setzen sie sich
+gegenseitig auf, strecken den Schläger darauf und reichen sich
+die Rechte.
+
+So nimm ihn hin,
+dein Haupt will ich bedecken
+und drauf den Schläger strecken;
+es leb' auch dieser Bruder hoch!
+Ein Hundsfott, wer ihn schimpfen sollt!
+Solange wir uns kennen,
+woll'n wir uns Brüder nennen:
+es leb' auch dieser Bruder hoch!
+Ein Hundsfott, wer ihn schimpfen sollt!
+
+22. Korona:
+
+Chargierte trinken einander zu.
+
+Solange wir sie kennen,
+woll'n wir sie Brüder nennen
+Es leb'n auch diese Brüder hoch!
+Ein Hundsfott, wer sie schimpien sollt!
+
+VIII. Präsidium, Bierorganist und evtl. "einzelner"
+Bundesbruder
+
+23. Beteiligte Chargierte:
+
+Diese ziehen die Mützen vom Schläger, setzen sie dem
+Betreffenden auf, strecken den Schläger darauf und
+reichen einander die Rechte. Die Betreffenden reichen
+einander die Linke.
+
+So nimm ihn hin,
+dein Haupt will ich bedecken
+und drauf den Schläger strecken;
+es leb' auch dieser Bruder hoch!
+Ein Hundsfott, wer ihn schimpien sollt!
+Solange wir ihn kennen,
+woll'n wir ihn Bruder nennen:
+es leb' auch dieser Bruder hoch!
+Ein Hundsfott, wer ihn schimpten sollt!
+
+24. Präsidium, Bierorgel und evtl. "einzelner" Bbr.:
+
+Solange wir uns kennen,
+woll’n wir uns Brüder nennen.
+
+Beteiligte trinken einander zu.
+
+Korona:
+
+Es leb'n auch diese Brüder hoch!
+Ein Hundslott, wer sie schimplen sollt!
+
+IX. Schluß der Zeremonie
+
+25. Präsidium und Konchorgia
+
+Ruhe von der Burschenleier,
+blanker Weihedegen, nun!
+Jeder trachte, wack'rer Freier
+um TEUTONIAS Wohl zu sein!
+
+26. Präsidium und Konchargia
+
+Auf, ihr Festgenossen, achtet
+uns're Sitte, heilig schön!
+Ganz mit Herz und Seele trachtet,
+stets als TEUTONEN zu besteh'n.
+
+X. Abschluß der hochoffiziellen Burschenfeier
+
+27. Korona hoch zum Bundeslied!
+
+Feierliche Zeremonie der Burschenfeier ex est!]]></record>
+
+    <record
+        number="3"
+        page="18"
+        title="Ade zur guten Nacht"
+        beginning="Ade zur guten Nacht"
+        tonality=""
+        author_melody=""
+        author_text=""
+        year_melody=""
+        year_text=""
+        note="Volkslied aus dem 19. Jahrhundert"><![CDATA[1. Ade zur guten Nacht!
+Jetzt wird der Schluß gemacht,
+daß muß ich scheiden.
+Im Sommer wächst der Klee,
+im Winter schneit's den Schnee,
+da komm ich wieder.
+
+2. Es trauern Berg und Tal,
+wo ich vieltausendmal
+bin drüber gangen;
+das hat deine Schönheit gemacht,
+hat mich zum Lieben gebracht
+mit großem Verlangen.
+
+3. Das Brünnlein rinnt und rauscht
+wohl unterm Holderstrauch‚
+wo wir gesessen;
+wie manchen Glockenschlag,
+da Herz bei Herzen lag,
+das hast vergessen.
+
+4. Die Mädel in der Welt
+sind falscher als das Geld
+mit ihrem Lieben.
+Ade zur guten Nacht,
+jetzt wird der Schluß gemacht,
+daß ich muß scheiden.]]></record>
+
+    <record
+        number="4"
+        page="19"
+        title="Teutoburger Schlacht"
+        beginning="Als die Römer frech geworden"
+        tonality=""
+        author_melody=""
+        author_text="J.V. Scheffel"
+        year_melody=""
+        year_text="1847"
+        note=""><![CDATA[1. Als die Römer frech geworden,
+sim serim simsim simsim,
+zogen sie nach Deutschlands Norden,
+sim serim simsim simsim,
+vorne mit Trompetenschall, tä-terä-tätä-tä,
+ritt der Generalfeldmarschall, tä-terä-tätä-tä,
+Herr Quinctilius Varus, wau, wau‚ wau, wau, wau‚ wau,
+Herr Quinctilius Varus, schnäderängtäng, schnäderängtäng,
+schnäderäng tängderängtängtäng.
+
+2. In dem Teutoburger Walde, :: sim serim ::
+huh! wie pfiff der Wind so kalte, :: sim serim ::
+Raben flogen durch die Luft, tä-terä-tätä-tä,
+und es war ein Moderduft, tä-terä-tätä-tä,
+wie von Blut und Leichen, wau, wau, wau, wau, wau, wau,
+wie von Blut und Leichen, schnäderängtäng...
+
+3. Plötzlich aus des Waldes Duster brachen krampfhaft die Cherusker,
+mit Gott für Fürst und Vaterland stürzten sie sich wutentbrannt
+auf die Legionen.
+
+4. Weh, das ward ein großes Morden, sie erschlugen die Kohorten,
+nur die röm'sche Reiterei rettete sich noch ins Frei,
+denn sie war zu Pferde.
+
+5. O Quinctili, armer Feldherr, dachtest du, daß so die Welt wär?
+Er geriet in einen Sumpf, verlor zwei Stiefel und einen Strumpf
+und blieb elend stecken.
+
+6. Da sprach er voll Ärgernussen zum Centurio Titiussen:
+"Kamerade, zeuch dein Schwert hervor und von hinten mich
+durchbohr', da doch alles futsch ist".
+
+7. In dem armen römschen Heere diente auch als Volontäre
+Scaevola, ein Rechtskandidat, den man schnöd gefangen hat,
+wie die andern alle.
+
+8. Diesem ist es schlimm ergangen, eh, daß man ihn aufgehangen,
+stach man ihm durch Zung und Herz, nagelte ihn hinterwärts
+auf sein corpus iuris.
+
+9. Als die Waldschlacht war zu Ende, rieb Fürst Hermann sich
+die Hände, und um seinen Sieg zu weih'n, lud er die
+Cherusker ein zu 'nem großen Frühstück.
+
+10. Hui, da gab's westfälschen Schinken, Bier, soviel man wollte
+trinken; auch im Zechen blieb er Held, doch auch seine Frau
+Thusneld trank walkyrenmäßig.
+
+11. Nur in Rom war man nicht heiter, sondern kaufte
+Trauerkleider; grade als beim Mittagsmahl Augustus saß im
+Kaisersaal, kam die Trauerbotschaft.
+
+12. Erst blieb ihm vor jähem Schrecken ein Stück Pfau im Halse
+stecken, dann geriet er außer sich und schrie: "Varus, Fluch
+auf dich, redde legiones!"
+
+13. Sein deutscher Sklave, Schmidt geheißen, dacht:
+Ihn soll das Mäusle beißen, wenn er sie je wieder kriegt,
+denn wer einmal tot daliegt, wird nicht mehr lebendig.
+
+14. Und zu Ehren der Geschichten tat ein Denkmal man errichten,
+Deutschlands Kraft und Einigkeit verkündet es jetzt weit
+und breit: "Mögen sie nur kommen!"]]></record>
+
+    <record
+        number="5"
+        page="21"
+        title="Hundert Semester"
+        beginning="Als ich schlummernd lag heut Nacht"
+        tonality=""
+        author_melody="Adolf Schlieben"
+        author_text="Adolf Katsch"
+        year_melody="1885"
+        year_text="1885"
+        note=""><![CDATA[1. Als ich schlummernd lag heut Nacht, lockten süße Träume,
+schimmernd in der Jugend Pracht, mich in ferne Räume.
+Krasses Füchslein saß ich schlank in der Kneipe wieder,
+und in vollem Chore klang laut das Lied der Lieder:
+:: Gaudeamus igitur, iuvenes dum sumus! ::
+post iucundam iuventutem, post molestam senectutem
+:: nos habebit humus. ::
+
+2. Tabakswolkenduft umkreist bläulich Rheinweinbecher;
+desto heller flammt der Geist in dem Haupt der Zecher,
+Füchslein fühlt im Weltenrund sich der Schöpfung Krone,
+und er singt mit keckem Mund und mit keckem Tone:
+:: Ubi sunt, qui ante nos in mundo fuere ? ::
+Vadite ad superos, transite ad interos,
+:: ubi iam fuere. ::
+
+3. Jöh erwacht ich. - Glockenklar tönt mir's in den Ohren:
+Heut' sind's runde siebzig Jahr, seit du wardst geboren.
+Heut' schon liegen hinter dir der Semester hundert! -
+Hell rieb ich die Augen mir, summte still verwundert.
+:: Vita nostra brevis est, brevi finietur, ::
+venit mors velociter, rapit nos atrociter,
+:: nemini parcetur. ::
+
+4. Schnell vom Lager sprang ich auf, rief: Mir hat das Leben
+viel in seinem kurzen Lauf, Leid und Lust, gegeben.
+Sei vergessen, was gedrückt mich mit Sorg und Plage;
+heut ein Hoch dem, was beglückt meine jungen Tage:
+:: Vivat academia, vivant professores, ::
+vivat membrum quodlibet, vivant membra quaelibet,
+:: semper sint in flore! ::
+
+5. Gold'ne Burschenzeit entﬂog schnell - daß Gott erbarme!
+Ledern Philisterium zog mich in dürre Arme.
+Doch philistern lernt' ich nicht, hoch, auf goldnen Schwingen,
+trug mich Lieb zum Himmelslicht, jubelnd durft ich singen:
+:: Vivant omnes virgines, graciles, formosae! ::
+vivant et mulieres, tenerae, amabiles,
+:: bonae, laboriosae! ::
+
+6. Weib und Kinder an der Hand, freut ich mich des Lebens;
+nützlich sein dem Vaterland, ward das Ziel des Strebens.
+Konnte sich's zum Paradies auch nicht ganz gestalten,
+Treue, die ich ihm erwies, hat's mir doch gehalten.
+:: Vivat et res publica et qui illam regit! ::
+Vivat nostra civitas, maecenatum caritas,
+:: quae nos hic protegit. ::
+
+7. lm latein'schen Liede sang heut' ich alter Knabe
+meines Lebens ganzen Gang von der Wieg zum Grabe;
+komme, wann du willst, Freund Hein, mich zur Ruh zu bringen;
+doch, wie einst als Füchselein, will der Greis noch singen:
+:: Pereat tristitia, pereant osores, ::
+pereat diabolus, quivis antiburschius,
+:: atque irrisores! ::]]></record>
+
+    <record
+        number="6"
+        page="23"
+        title="Oh goldne Akademia"
+        beginning="Als noch Arkadiens goldne Tage"
+        tonality=""
+        author_melody="O. Lob"
+        author_text="G.H. Schneideck"
+        year_melody="1896"
+        year_text=""
+        note=""><![CDATA[1. Als noch Arkadiens goldne Tage
+mich jungen Burschen angelacht,
+wie hab ich da in süßem Taumel
+die frohen Stunden hingebracht;
+leicht war mein Herz und leicht mein Wechsel,
+die gar zu bald davon gerauscht
+Und doch hätt ich mit keinem Fürsten
+in jener Seligkeit getauscht;
+:: war selbst ein Fürst der Freude ia, o goldne Akademia! ::
+
+2. Zwar tät mein Vater häuﬁg schreiben:
+Mein Sohn, geh ins Kollegium;
+doch oftmals wider meinen Willen
+bracht mich der Zufall neckisch drum;
+bald galt's ein Fäßchen anzustecken,
+bald lag ich draußen auf Mensur!
+Die Lust am Zechen und am Pauken
+liegt in des Burschen Frohnatur.
+:: Wer schilt das krasse Füchslein da?
+O goldne Akademia! ::
+
+3. Ging ich entlang die engen Gassen,
+aufs Haupt des Cerevis gedrückt,
+hei, wie die schmucken Mädchen lachten,
+wenn freundlich ich emporgenickt;
+den Weibern war ich wohlgewogen,
+als stets verliebter Musensohn,
+gern hätt ich aller Herz besessen,
+doch eines war mein eigen schon,
+:: des schönsten Mädchens, das ich sah,
+o goldne Akademia! ::
+
+4. Ach, pfeilschnell flogen die Semester,
+ein altes Haus nennt man mich heut,
+nun hat auch mir auf meine Locken
+der Winter seinen Reif gestreut;
+doch nimmer will ich dich vergessen,
+der holden Freiheit Paradies,
+die schönste Zeit in meinem Leben,
+da ich noch ﬂotter Bursche hieß;
+:: stets bleib ich dir im Geiste nah,
+o goldne Akademia! ::]]></record>
+
+    <record
+        number="7"
+        page="25"
+        title="Donaustrudel"
+        beginning="Als wir jüngst in Regensburg waren"
+        tonality=""
+        author_melody=""
+        author_text=""
+        year_melody=""
+        year_text=""
+        note="Volksweise"><![CDATA[1. Als wir jüngst in Regensburg waren,
+sind wir über den Strudel gefahren.
+Da war'n viele Holden, die mitfahren wollten.
+:: Schwäbische, bayrische Dirndel, juchheirassa!
+muß der Schiffsmann fahren. ::
+
+2. Und ein Mädel von zwölf Jahren
+ist mit über den Strudel gefahren;
+weil sie noch nicht lieben kunnt,
+fuhr sie sicher über Strudels Grund. Schwäbische...
+
+3. Und von hohem Bergesschlosse
+kam auf stolzem schwarzen Rosse
+adlig Fräulein Kunigund,
+wollt mit fahrn übers Strudels Grund.
+
+4. "Schiffsmann, lieber Schiffsmann mein,
+sollt's denn so gefährlich sein?
+Schiffsmann, sag's mir ehrlich,
+ist's denn so gefährlich?"
+
+5. "Wem der Myrtenkranz geblieben,
+landet froh und sicher drüben;
+wer ihn hat verloren,
+ist dem Tod erkoren."
+
+6. Als sie auf die Mitt' gekommen,
+kam ein großer Nix geschwommen,
+nahm das Fräulein Kunigund,
+fuhr mit ihr in den Strudels Grund.]]></record>
 </songs>
+
+<!--
+<record
+        number="1"
+        page="9"
+        title="Farbenlied"
+        beginning="Auf, ihr Brüder"
+        tonality="G-Dur"
+        author_melody=""
+        author_text="CB Karl Nusser v Zeisig"
+        year_melody=""
+        year_text="1874"
+        note="">[!<![CDATA[]]></record>
+-->
