@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">Teuto-Kommersbuch</string>
+    <string name="app_version">0.1.0</string>
+    <string name="about_title">Teuto-Kommersbuch v0.1.0</string>
+    <string name="about"><![CDATA[<p>Das Urheberrecht der Liedtexte in dieser App liegt bei den
+jeweiligen Autoren.</p>
+
+<p>Diese App ist Freie Software: Sie können sie unter den Bedingungen
+der GNU General Public License, wie von der Free Software Foundation veröffentlicht,
+Version 3 der Lizenz oder (nach Ihrer Wahl) jeder neueren
+veröffentlichten Version, weiterverbreiten und/oder modifizieren.</p>
+
+<p>Diese App wird in der Hoffnung, dass sie nützlich sein wird, aber
+OHNE JEDE GEWÄHRLEISTUNG, bereitgestellt; sogar ohne die implizite
+Gewährleistung der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+Siehe die GNU General Public License für weitere Details.</p>
+
+<p>Eine Kopie der Lizenz finden Sie zusammen mit dem Quelltext auf
+GitHub. Alternativ können Sie die Lizenz auch unter &lt;http://www.gnu.org/licenses/&gt; einsehen.
+</p>]]></string>
     <string name="action_about">Über diese App</string>
+    <string name="goto_github">Auf GitHub ansehen</string>
+    <string name="action_song_info">Über dieses Lied</string>
     <string name="title_activity_test">TestActivity</string>
 </resources>

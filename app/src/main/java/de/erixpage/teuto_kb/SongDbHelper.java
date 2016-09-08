@@ -20,7 +20,7 @@ public class SongDbHelper extends SQLiteOpenHelper {
     private static final String LOG_TAG             = SongDbHelper.class.getSimpleName();
 
     public static final String DB_NAME              = "teutokb.db";
-    public static final int DB_VERSION              = 5;
+    public static final int DB_VERSION              = 7;
 
     public static final String TABLE_SONGS          = "songs";
 
@@ -87,7 +87,8 @@ public class SongDbHelper extends SQLiteOpenHelper {
                     String _Year_Melody = _xml.getAttributeValue(null, COLUMN_YEAR_MELODY);
                     String _Year_Text = _xml.getAttributeValue(null, COLUMN_YEAR_TEXT);
                     String _Note = _xml.getAttributeValue(null, COLUMN_NOTE);
-                    String _Text = _xml.getText();
+                    String _Text = _xml.nextText();
+                    Log.d(LOG_TAG, "Got text: " + _Text);
                     _Values.put(COLUMN_NUMBER, _Number);
                     _Values.put(COLUMN_PAGE, _Page);
                     _Values.put(COLUMN_TITLE, _Title);

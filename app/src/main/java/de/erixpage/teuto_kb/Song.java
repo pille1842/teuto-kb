@@ -1,9 +1,11 @@
 package de.erixpage.teuto_kb;
 
+import java.io.Serializable;
+
 /**
  * Created by Eric on 05.09.2016.
  */
-public class Song {
+public class Song implements Serializable {
     private long id;
     private int number;
     private int page;
@@ -44,6 +46,47 @@ public class Song {
 
     public String getDisplayInfo() {
         return "Nr. " + number + ", p. " + page + "  " + title;
+    }
+
+    public String getDisplayDetails() {
+        String str = getDisplayInfo();
+        if ((! author_melody.equals("")) || year_melody > 0 || (! author_text.equals("")) || year_text > 0) {
+            str += "\r\n";
+        }
+        if ((! author_melody.equals("")) || year_melody > 0) {
+            str += "Weise: ";
+        }
+        if (! author_melody.equals("")) {
+            str += author_melody;
+        }
+        if (year_melody > 0) {
+            if (! author_melody.equals("")) {
+                str += ", ";
+            }
+            str += Integer.toString(year_melody);
+        }
+        if (! (str.equals("") && (author_text.equals("") || year_text > 0))) {
+            str += "\r\n";
+        }
+        if ((! author_text.equals("")) || year_text > 0) {
+            str += "Worte: ";
+        }
+        if (! author_text.equals("")) {
+            str += author_text;
+        }
+        if (year_text > 0) {
+            if (! author_text.equals("")) {
+                str += ", ";
+            }
+            str += Integer.toString(year_text);
+        }
+        if (! note.equals("")) {
+            if ((!author_melody.equals("")) || year_melody > 0 || (!author_text.equals("")) || year_text > 0) {
+                str += "\r\n";
+            }
+            str += note;
+        }
+        return str;
     }
 
     public long getId() {
